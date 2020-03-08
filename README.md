@@ -8,4 +8,4 @@ Group work for the course Data Science in Practice 2020 done by
 - Villegas Alfonso
 
 # Problem set 1
-Our result for the problem set 1 is found in Practice01_final.ipynb 
+Please find our result for the problem set 1 in Practice01_final.ipynb 
